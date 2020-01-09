@@ -1,0 +1,60 @@
+
+Training Accuracy = 95.18
+Test Accuracy = 95.19
+
+
+Training Accuracy = 94.02
+Test Accuracy = 95.14
+
+
+
+
+
+Training Accuracy = 94.74
+Test Accuracy = 94.84
+
+
+
+Training Accuracy = 94.74
+Test Accuracy = 93.39
+
+
+
+Training Accuracy = 94.91
+Test Accuracy = 95.49
+
+
+
+Training Accuracy = 94.95
+Test Accuracy = 95.49
+
+
+
+Training Accuracy = 94.83
+Test Accuracy = 94.93
+
+
+
+Training Accuracy = 94.36
+Test Accuracy = 95.05
+
+
+
+Training Accuracy = 94.21
+Test Accuracy = 94.28
+
+
+
+Training Accuracy = 94.20
+Test Accuracy = 94.35
+
+
+
+Training Accuracy = 94.05
+Test Accuracy = 95.54
+
+
+
+Training Accuracy = 94.00
+Test Accuracy = 95.40
+
